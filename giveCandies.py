@@ -30,6 +30,7 @@ Output: 11
 Explanation:
 
 4 + 2 + 3 + 1 + 1
+Code By Saideep Shetty
 '''
 
 def giveCandies(children):
