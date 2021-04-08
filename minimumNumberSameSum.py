@@ -9,7 +9,7 @@ Example:
 N : 28
 It should return 37, since sum of digits of 28 is 10 and that of 37 is also 10 and its the next smallest number greater than N
 which satisfies the condition
-
+Code By Saideep Shetty
 '''
 
 def solution(N):
